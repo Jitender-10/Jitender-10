@@ -2,8 +2,6 @@
 - 👀 I’m interested in Drawing & Hack tricks
 - 🌱 I’m currently learning so called CODING!!
 - 💞️ I’m looking to collaborate on loading...
-- 📫 How to reach me Instagram : _jitender_10
-- 😄 Pronouns: He/him/his
 - ⚡ Fun fact: Man chested United
 
 <!---
