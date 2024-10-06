@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Jitender-10
 - 👀 I’m interested in Drawing & Hack tricks
-- 🌱 I’m currently learning so called CODING!!
-
 - ⚡ Fun fact: Man chested United
 
 <!---
