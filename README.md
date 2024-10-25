@@ -1,4 +1,4 @@
-![logo](https://github.com/Jitender-10/Jitender-10/blob/main/banner_git.png)
+![logo](https://github.com/Jitender-10/Jitender-10/blob/main/25banner.png)
 <h1 align="center">Hi 👋, I'm Jitender</h1>
 <h3 align="center">A Coding Geek Who loves to Code</h3>
 
