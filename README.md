@@ -17,9 +17,7 @@
 <a href="https://discord.gg/jitender4495" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jitender4495" height="30" width="40" /></a>
 </p>
 
-## 🛡️ TryHackMe Progress
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/jitender10.png)](https://tryhackme.com/p/jitender10)
 
 
 <h3 align="left">Languages and Tools:</h3>
